@@ -36,7 +36,7 @@ title: BNB Greenfield
         <div>EVM Programmability</div>
         <p>The real power of the Greenfield lies in its programmability to support the creation of value based on the data assets and its related economy.</p>
     </a>
-    <a href="./greenfield-blockchain/overview">
+    <a href="./for-validator/overview">
         <div>Greenfield Blockchain</div>
         <p>Get familiar with the Greenfield Blockchain and explore its main modules.</p>
     </a>
@@ -44,9 +44,9 @@ title: BNB Greenfield
         <div>Storage Provider</div>
         <p>Explore the Storage Provider.</p>
     </a>
-    <a href="./for-developers/sdks">
-        <div>SDKs</div>
-        <p>Utilize the SDKs to build the app</p>
+    <a href="./for-developers/apis-and-sdks">
+        <div>APIs and SDKs</div>
+        <p>Utilize the APIs and SDKs to build the app</p>
     </a>
 </div>
 

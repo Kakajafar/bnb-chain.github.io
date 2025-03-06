@@ -24,7 +24,7 @@ title: BNB Smart Chain
 
 
 <div class="section-body">
-    <a href="./developers/overview" class="grid-item">
+    <a href="./developers/quick-guide" class="grid-item">
         <div>Developers</div>
         <p>User guide to get started on BNB Smart Chain</p>
     </a>
@@ -54,6 +54,10 @@ title: BNB Smart Chain
     </a>
     <a href="./validator/mev/">
         <div>MEV Builder</div>
-        <p>Become a builder and creat blocks and offering them to the validator</p>
+        <p>Become a builder and create blocks and offering them to the validator</p>
+    </a>
+    <a href="https://geth.ethereum.org/docs/interacting-with-geth/rpc">
+        <div>JSON-RPC API</div>
+        <p>Interacting with BSC requires sending requests to specific JSON-RPC API methods.</p>
     </a>
 </div>

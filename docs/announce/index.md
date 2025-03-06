@@ -2,25 +2,18 @@
 # Announcement
 
 <div class="doc-announce">
-    <a href="./haber-fix/">
+    <a href="./wright-opbnb/">
         <div>
-            <div class="announce-title">BSC Haber Fix Upgrade</div>
-            <div class="announce-desc">Bugfixing on BSC testnet</div>
+            <div class="announce-title">Wright Upgrade of opBNB (Mainnet)</div>
+            <div class="announce-desc">Introduce Gasless Feature on opBNB Mainnet</div>
         </div>
-        <span class="announce-date">2024 July 3rd</span>
+        <span class="announce-date">2024 Aug 27</span>
     </a>
-    <a href="./veld-greenfield/">
+    <a href="./bohr-bsc/">
         <div>
-            <div class="announce-title">Greenfield Veld Hardfork</div>
-            <div class="announce-desc">Bugfixing on Greenfield</div>
+            <div class="announce-title">Bohr Upgrade of BSC (Mainnet)</div>
+            <div class="announce-desc">Introduce 4 BEPs on BSC Mainnet</div>
         </div>
-        <span class="announce-date">2024 May 25</span>
-    </a>
-    <a href="./second-sunset-bc/">
-        <div>
-            <div class="announce-title">BC Second Sunset Hardfork</div>
-            <div class="announce-desc">Enable Second Sunset Hardfork on BC</div>
-        </div>
-        <span class="announce-date">2024 June 26</span>
+        <span class="announce-date">2024 Sep 26</span>
     </a>
 </div>
